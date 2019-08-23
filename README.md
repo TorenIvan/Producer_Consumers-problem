@@ -3,6 +3,7 @@
 Producer_Consumers problem
 
 Producer = Feeder
+
 Consumers = Readers
 
 
@@ -34,6 +35,7 @@ HOW IT WORKS:
   RESULTS FOR SOME TRY'S:
 
   N=10, M=100   I am 2717 and my running average is: 0.010000
+  
           I am 2715 and my running average is: 0.010000
           I am 2714 and my running average is: 0.010000
           I am 2713 and my running average is: 0.010000
@@ -45,6 +47,7 @@ HOW IT WORKS:
           I am 2716 and my running average is: 0.010000
 
   N=10, M=1000  I am 2740 and my running average is: 0.013000
+  
           I am 2736 and my running average is: 0.013000
           I am 2739 and my running average is: 0.011000
           I am 2735 and my running average is: 0.013000
@@ -56,6 +59,7 @@ HOW IT WORKS:
           I am 2742 and my running average is: 0.015000
 
   N=67, M=10000  I am 2917 and my running average is: 0.044300
+  
           I am 2924 and my running average is: 0.040800
           I am 2914 and my running average is: 0.047900
           I am 2947 and my running average is: 0.042700
